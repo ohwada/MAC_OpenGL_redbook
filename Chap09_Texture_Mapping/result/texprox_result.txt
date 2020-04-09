@@ -1,0 +1,6 @@
+sample when run texprox
+----------
+proxyComponents are 32856
+proxy allocation succeeded
+proxyComponents are 32859
+proxy allocation succeeded

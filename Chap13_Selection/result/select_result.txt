@@ -1,0 +1,9 @@
+sample when run select
+----------
+hits = 2
+ number of names for hit = 1
+  z1 is 1; z2 is 1
+   the name is 1 
+ number of names for hit = 1
+  z1 is 0; z2 is 2
+   the name is 3 

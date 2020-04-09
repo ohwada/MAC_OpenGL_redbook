@@ -1,0 +1,6 @@
+sample when run hello
+----------
+OpenGL Vender: Intel Inc. 
+OpenGL Renderer: Intel(R) HD Graphics 6000 
+OpenGL Version: 2.1 INTEL-14.5.22 
+GLUT Version: 5 
