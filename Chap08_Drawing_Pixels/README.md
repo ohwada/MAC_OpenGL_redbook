@@ -1,4 +1,4 @@
- - redbook
+Chap08_Drawing_Pixels - redbook
 ===============
 
 OpenGL redbook Samples <br/>

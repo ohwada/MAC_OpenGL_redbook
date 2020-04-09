@@ -23,7 +23,7 @@ This program demonstrates smooth shading  <br/>
 A smooth shaded polygon is drawn in a 2-D projection  <br/>
 draw a triangle which vertex colors are Red / green / Blue  <br/>
 
-<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap01_Introduction/result/screenshot_smooth.png" width="300" /><br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap04_Color/result/screenshot_smooth.png" width="300" /><br/>
 
 
 ### Reference <br/>

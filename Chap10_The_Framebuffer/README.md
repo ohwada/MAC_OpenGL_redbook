@@ -32,7 +32,7 @@ and Yellow Torus are drawn where the stencil value is not 1 <br/>
 Use the accumulation buffer to do full-scene antialiasing
 on a scene with orthographic parallel projection  <br/>
 draw Yellow Torus, Teal Cube, Purple Sphere, Brown Octahedron in Black background <br/>
-<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap10_The_Framebuffer/result/screenshot_accanti.png" width="300" /><br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap10_The_Framebuffer/result/screensht_accanti.png" width="300" /><br/>
 
 ### accpersp.c <br/>
 Use the accumulation buffer to do full-scene antialiasing
