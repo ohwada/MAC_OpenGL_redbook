@@ -29,7 +29,7 @@ OpenGL Renderer: Intel(R) HD Graphics 6000  <br/>
 OpenGL Version: 2.1 INTEL-14.4.23  <br/>
 GLUT Version: 5  <br/>
 
-<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap01_Introduction/result/screenshot_hello.png" width="300" /><br/>
+<image src="https://raw.githubusercontent.com/ohwada/MAC_OpenGL_redbook/master/Chap01_Introduction/result/screebshot_hello.png" width="300" /><br/>
 
 
 ### double.c <br/>
